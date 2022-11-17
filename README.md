@@ -4,7 +4,7 @@
 Please make yourself comfortable and feel free to read, comment and fork any of my repos.
 
 -------------------
-Some clues
+### Some clues
 
 #### Looking for sth recent?
   - You can visit [Glistore](https://github.com/nicolas-alv3/glistore-frontend/tree/main) the project I'm currently working on
