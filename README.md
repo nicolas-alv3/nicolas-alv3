@@ -19,9 +19,7 @@ If you want to find more information about me, you can always visit [my portfoli
 
 #### How can you reach me?
 - 📫 nicolas.alv3@gmail.com
-- [By telegram](https://t.me/nico_alvarez3)
-
-
+- 💬 [By telegram](https://t.me/nico_alvarez3)
 <!--
 **nicolas-alv3/nicolas-alv3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
