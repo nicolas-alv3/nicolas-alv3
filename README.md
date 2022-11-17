@@ -7,7 +7,7 @@ Please make yourself comfortable and feel free to read, comment and fork any of 
 Some clues
 
 #### Looking for sth recent?
-  - You can visit [Glistore](https://github.com/nicolas-alv3/glistore-frontend/tree/master) the project I'm currently working on
+  - You can visit [Glistore](https://github.com/nicolas-alv3/glistore-frontend/tree/main) the project I'm currently working on
 
 #### Looking for sth stable?
   - You can visit [Pomelo bebés store](https://github.com/nicolas-alv3/glistore-frontend/tree/develop) an online e-commers hosted [here](https://pomelobebes.web.app)
